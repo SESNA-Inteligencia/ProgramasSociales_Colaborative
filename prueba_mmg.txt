@@ -1,10 +1,18 @@
 Archivo de prueba -: 
 
 Colaborador : Marissa Martínez García
+<<<<<<< HEAD
+Prueba de cambios iniciales, segundo cambio 
 
 <<<<<<< HEAD
 Colaborador2 : Julio César
 =======
 
+<<<<<<< HEAD
+=======
+=======
+
+
+>>>>>>> 632ef0dd75900f16f69daeb752ad187c97bd285c
 Chris modifico este txt, vamos a ver si se actualiza
 >>>>>>> 67bcefcac36eed221e55565d03546e547b18a33f
