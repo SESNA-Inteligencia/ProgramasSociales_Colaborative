@@ -1,6 +1,12 @@
 Archivo de prueba -: 
 
 Colaborador : Marissa Martínez García
+<<<<<<< HEAD
 Prueba de cambios iniciales, segundo cambio 
 
 
+=======
+
+
+Chris modifico este txt, vamos a ver si se actualiza
+>>>>>>> 67bcefcac36eed221e55565d03546e547b18a33f
